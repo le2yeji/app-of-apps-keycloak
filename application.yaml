@@ -12,7 +12,7 @@ spec:
   project: default
   
   source:
-    repoURL: https://github.com/kt-cloudnative/app-of-apps-keycloak.git
+    repoURL: https://github.com/le2yeji/app-of-apps-keycloak.git
     targetRevision: HEAD
     path: apps
   
