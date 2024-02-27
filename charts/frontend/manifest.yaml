@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: yyazi/vue_crud_security_keycloak
+        image: yyazi/vue_crud_security_keycloak_prd
         imagePullPolicy: Always
         env:
         - name: BACKEND_API_URL
