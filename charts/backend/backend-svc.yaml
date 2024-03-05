@@ -8,4 +8,4 @@ spec:
     targetPort: 9080	
   selector:	
     app: backend
-  type: ClusterIP
+  type: NodePort
